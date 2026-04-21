@@ -2,17 +2,17 @@
 <!-- 🌌 ABHISHEK KUMAR — ANIMATED GITHUB PROFILE README                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ───────────── HEADER ───────────── -->
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00EFFF,100:8A2BE2&height=220&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20AI%20Builder&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn"/>
 
-<!-- ───────────── TYPING ANIMATION ───────────── -->
+<!-- TYPING -->
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+digital+space!;🚀+Building+scalable+systems;🧠+AI+%7C+Backend+%7C+Full+Stack;⚡+Code.+Build.+Solve.+Repeat."/>
   </a>
 </p>
 
-<!-- ───────────── BADGES ───────────── -->
+<!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-00EFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge"/>
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<!-- ABOUT -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"/>
@@ -41,11 +41,8 @@
 <td width="55%">
 
 🧑‍💻 **Name:** Abhishek Kumar  
-
 🚀 **Role:** Full Stack Developer & CSE Student  
-
 🇮🇳 **Location:** India  
-
 🎓 **Education:** B.Tech in Computer Science Engineering  
 
 ⚡ **Motto:** *"Code. Build. Solve. Repeat."*  
@@ -71,51 +68,67 @@ Building real-world projects & hackathon-level solutions
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- TECH TOOLBOX -->
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Toolbox</h2>
+<br>
 
-**Languages:**  
-JavaScript · TypeScript · Python · C++ · Java  
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60"/><br>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</td>
+</tr>
 
-**Frontend:**  
-React · Next.js · Tailwind CSS  
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="60"/><br>Nginx</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="60"/><br>GraphQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="60"/><br>REST API</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="60"/><br>Django</td>
+</tr>
 
-**Backend:**  
-Node.js · Express · Django · Flask  
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML5</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS3</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="60"/><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="60"/><br>Prisma</td>
+</tr>
 
-**Databases:**  
-MongoDB · PostgreSQL · MySQL  
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="60"/><br>Flask</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="60"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="60"/><br>Vercel</td>
+</tr>
+</table>
 
-**Tools:**  
-Docker · AWS · Git · Nginx · Prisma  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🎯 Current Focus
-
-- 🚀 Building AI-powered platforms  
-- 🧠 Strengthening DSA & problem solving  
-- ⚙️ Designing scalable backend systems  
-- 🏆 Working on hackathon projects  
-
----
+<!-- PROJECTS -->
 
 ## 🚀 Featured Projects
 
-### 🏥 DonorChain (In Progress)
-AI-powered blood donation system  
-
-### 📧 AI Phishing Detection
-ML-based phishing detection  
-
-### 📅 Exam Scheduler
-Graph coloring algorithm  
-
-### 🤖 DoctorGPT
-AI healthcare assistant  
+- 🏥 **DonorChain** – AI-powered blood donation system  
+- 📧 **Phishing Detection** – ML email classifier  
+- 📅 **Exam Scheduler** – Graph coloring solution  
+- 🤖 **DoctorGPT** – AI healthcare assistant  
 
 ---
+
+<!-- STATS -->
 
 ## 📊 GitHub Analytics
 
@@ -128,6 +141,8 @@ AI healthcare assistant
 </p>
 
 ---
+
+<!-- CONNECT -->
 
 ## 🤝 Connect With Me
 
