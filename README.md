@@ -2,13 +2,13 @@
 <!-- 🌌 ABHISHEK KUMAR — ANIMATED GITHUB PROFILE README                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ───────────── WAVE HEADER ───────────── -->
+<!-- ───────────── HEADER ───────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00EFFF,100:8A2BE2&height=220&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20AI%20Builder&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn"/>
 
-<!-- ───────────── ANIMATED TYPING ───────────── -->
+<!-- ───────────── TYPING ANIMATION ───────────── -->
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=👋+Welcome+to+my+digital+space!;🚀+Building+real-world+scalable+systems;🧠+AI+%7C+Backend+%7C+Full+Stack;⚡+Code.+Build.+Solve.+Repeat."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00EFFF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+digital+space!;🚀+Building+scalable+systems;🧠+AI+%7C+Backend+%7C+Full+Stack;⚡+Code.+Build.+Solve.+Repeat."/>
   </a>
 </p>
 
@@ -28,37 +28,67 @@
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-## 🧑‍💻 About Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"/>
+  &nbsp; About Me &nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"/>
+</h2>
 
-- **Name:** Abhishek Kumar  
-- **Role:** Full Stack Developer & CSE Student  
-- **Education:** B.Tech in Computer Science  
-- **Focus:** Backend Systems · AI Integration · Scalable Apps  
-- **Currently Building:** Hackathon Projects & Real-world Platforms  
-- **Exploring:** System Design · APIs · Distributed Systems  
+<br>
 
-💡 *"Code. Build. Solve. Repeat."*
+<table align="center">
+<tr>
+<td width="55%">
 
----
+🧑‍💻 **Name:** Abhishek Kumar  
+
+🚀 **Role:** Full Stack Developer & CSE Student  
+
+🇮🇳 **Location:** India  
+
+🎓 **Education:** B.Tech in Computer Science Engineering  
+
+⚡ **Motto:** *"Code. Build. Solve. Repeat."*  
+
+💻 **Passionate About:**  
+Full Stack Development · Backend Systems · Problem Solving  
+
+🧠 **Currently Exploring:**  
+AI Systems · APIs · Scalable Architectures  
+
+🏆 **Focus:**  
+Building real-world projects & hackathon-level solutions  
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZmZW84bmVqMDNuZTNnZ2IwaGNyeWoxeG1reTBzdnpzcTdlN2d0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 ## ⚙️ Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `C++` `Java`
+JavaScript · TypeScript · Python · C++ · Java  
 
 **Frontend:**  
-`React` `Next.js` `Tailwind CSS`
+React · Next.js · Tailwind CSS  
 
 **Backend:**  
-`Node.js` `Express` `Django` `Flask`
+Node.js · Express · Django · Flask  
 
 **Databases:**  
-`MongoDB` `PostgreSQL` `MySQL`
+MongoDB · PostgreSQL · MySQL  
 
-**Tools & DevOps:**  
-`Docker` `AWS` `Git` `Nginx` `Prisma`
+**Tools:**  
+Docker · AWS · Git · Nginx · Prisma  
 
 ---
 
@@ -66,10 +96,10 @@
 
 ## 🎯 Current Focus
 
-- 🚀 Building **AI-powered platforms**
-- 🧠 Strengthening **DSA & problem solving**
-- ⚙️ Designing **scalable backend systems**
-- 🏆 Working on **hackathon-level projects**
+- 🚀 Building AI-powered platforms  
+- 🧠 Strengthening DSA & problem solving  
+- ⚙️ Designing scalable backend systems  
+- 🏆 Working on hackathon projects  
 
 ---
 
@@ -78,34 +108,20 @@
 ## 🚀 Featured Projects
 
 ### 🏥 DonorChain (In Progress)
-- AI-powered blood donation & emergency response system  
-- Smart donor-recipient matching  
-- Real-time notifications & verification system  
-
----
+AI-powered blood donation system with smart matching & real-time alerts  
 
 ### 📧 AI Phishing Detection
-- NLP + ML-based email classification  
-- TF-IDF + Naive Bayes + URL analysis  
-- Detects phishing vs legitimate emails  
+ML-based system to detect phishing emails using NLP  
 
----
-
-### 📅 Exam Scheduler (DAA)
-- Graph Coloring (Greedy + DSATUR)  
-- Conflict-free timetable generation  
-- Optimized for student overlap  
-
----
+### 📅 Exam Scheduler
+Graph coloring algorithm for conflict-free scheduling  
 
 ### 🤖 DoctorGPT
-- AI-powered healthcare assistant  
-- Suggests conditions, remedies, precautions  
-- Built using AI APIs  
+AI healthcare assistant using modern AI APIs  
 
 ---
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -127,9 +143,6 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
@@ -137,7 +150,7 @@
 
 ---
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<!-- FOOTER -->
 
 <p align="center">
   ⭐ Thanks for visiting! Let's build something impactful 🚀
