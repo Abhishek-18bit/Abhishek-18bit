@@ -63,7 +63,7 @@ Building real-world projects & hackathon-level solutions
 
 <td width="45%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZmZW84bmVqMDNuZTNnZ2IwaGNyeWoxeG1reTBzdnpzcTdlN2d0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="320"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxZ3lsdGkwZGZ0cG84ZzNpazZ4eHlyZ2Z4d2poODRnem9ndThocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="320"/>
 
 </td>
 </tr>
@@ -92,8 +92,6 @@ Docker · AWS · Git · Nginx · Prisma
 
 ---
 
-<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
-
 ## 🎯 Current Focus
 
 - 🚀 Building AI-powered platforms  
@@ -103,25 +101,21 @@ Docker · AWS · Git · Nginx · Prisma
 
 ---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-
 ## 🚀 Featured Projects
 
 ### 🏥 DonorChain (In Progress)
-AI-powered blood donation system with smart matching & real-time alerts  
+AI-powered blood donation system  
 
 ### 📧 AI Phishing Detection
-ML-based system to detect phishing emails using NLP  
+ML-based phishing detection  
 
 ### 📅 Exam Scheduler
-Graph coloring algorithm for conflict-free scheduling  
+Graph coloring algorithm  
 
 ### 🤖 DoctorGPT
-AI healthcare assistant using modern AI APIs  
+AI healthcare assistant  
 
 ---
-
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -135,8 +129,6 @@ AI healthcare assistant using modern AI APIs
 
 ---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -149,8 +141,6 @@ AI healthcare assistant using modern AI APIs
 </p>
 
 ---
-
-<!-- FOOTER -->
 
 <p align="center">
   ⭐ Thanks for visiting! Let's build something impactful 🚀
