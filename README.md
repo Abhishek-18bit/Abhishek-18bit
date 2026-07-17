@@ -124,14 +124,13 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 [![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Abhishek_126&theme=dark&animated=true)](https://leetcode.com/u/Abhishek_126/)
 
-### 📊 **LeetCode Problem Breakdown**
+### 📊 **Real-Time LeetCode Statistics**
 
-| Difficulty | Count | Status |
-|-----------|-------|--------|
-| 🟢 **Easy** | 150+ Solved | ✅ |
-| 🟡 **Medium** | 150+ Solved | ✅ |
-| 🔴 **Hard** | 50+ Solved | ✅ |
-| **Total** | **350+ Problems** | **5⭐ Rating** |
+[![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/api?username=Abhishek_126&theme=dark)](https://leetcode.com/u/Abhishek_126/)
+
+<a href="https://leetcode.com/u/Abhishek_126/" target="_blank">
+  <img src="https://img.shields.io/badge/Problems%20Solved-350%2B-brightgreen?style=for-the-badge&logo=leetcode" />
+</a>
 
 ### 🏆 **Other Platforms**
 
