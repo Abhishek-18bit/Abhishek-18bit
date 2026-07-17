@@ -1,0 +1,32 @@
+name: Update README Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # Runs daily at 2 AM UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          
+      - name: Update README with latest stats
+        run: |
+          echo "README metrics updated at $(date)" >> README.md
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with latest metrics" && git push)
