@@ -399,9 +399,19 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <br>
 
-### 💻 **Top Languages**
+### 💻 **Top Languages & Skills**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-18bit&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF&border_radius=10&layout=compact&langs_count=10&hide=html,css)](https://github.com/Abhishek-18bit)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+![Python](https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-18%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-14%25-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-12%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-10%25-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![Others](https://img.shields.io/badge/Others-11%25-9C9C9C?style=for-the-badge)
+
+</div>
 
 <br>
 
