@@ -1,12 +1,9 @@
-name: Update README Metrics
+name: Update Daily README Spark
 
 on:
   schedule:
-    - cron: "0 2 * * *"  # Runs daily at 2 AM UTC
+    - cron: "0 2 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
@@ -16,17 +13,16 @@ jobs:
       contents: write
       
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          
-      - name: Update README with latest stats
-        run: |
-          echo "README metrics updated at $(date)" >> README.md
-          
-      - name: Commit changes
+
+      - name: Rotate daily quote and fun fact
+        run: node .github/scripts/update-daily-spark.mjs
+
+      - name: Commit daily update
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with latest metrics" && git push)
+          git add README.md
+          git diff --staged --quiet || (git commit -m "Update daily README spark" && git push)
