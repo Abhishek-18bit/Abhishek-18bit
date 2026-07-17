@@ -401,25 +401,28 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ### 💻 **Top Languages & Skills**
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/Abhishek-18bit?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-18bit&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=E6EDF3&border_color=00BFFF&border_radius=12&hide_progress=false" alt="Most used languages" />
-      </a>
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/CORE%20STACK-EXPLORING%20%26%20BUILDING-00BFFF?style=for-the-badge&labelColor=0D1117" alt="Core stack" /><br/><br/>
-      <img src="https://img.shields.io/badge/Python-20%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 20 percent" />
-      <img src="https://img.shields.io/badge/JavaScript-18%25-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript 18 percent" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-15%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 15 percent" />
-      <img src="https://img.shields.io/badge/Java-14%25-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java 14 percent" /><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-12%25-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C plus plus 12 percent" />
-      <img src="https://img.shields.io/badge/SQL-10%25-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL 10 percent" />
-      <img src="https://img.shields.io/badge/Others-11%25-6E7681?style=flat-square" alt="Other technologies 11 percent" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/LANGUAGE%20MIX-SELECTED%20PROJECTS-00BFFF?style=for-the-badge&logo=codacy&logoColor=white&labelColor=0D1117" alt="Language mix across selected projects" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22" alt="Python 20 percent" />
+<img src="https://img.shields.io/badge/JavaScript-18%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111&labelColor=161B22" alt="JavaScript 18 percent" />
+<img src="https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161B22" alt="TypeScript 15 percent" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-14%25-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java 14 percent" />
+<img src="https://img.shields.io/badge/C%2B%2B-12%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=161B22" alt="C plus plus 12 percent" />
+<img src="https://img.shields.io/badge/SQL-10%25-CC2927?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=161B22" alt="SQL 10 percent" />
+<img src="https://img.shields.io/badge/Others-11%25-6E7681?style=for-the-badge&labelColor=161B22" alt="Other technologies 11 percent" />
+
+<br/><br/>
+
+<sub>Core strengths across full-stack engineering, problem solving, and data-driven development.</sub>
+
+</div>
 
 <br>
 
