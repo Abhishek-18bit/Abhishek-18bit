@@ -87,28 +87,55 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ## 🛠️ **Tech Stack & Skills**
 
+<style>
+  @keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  @keyframes pulse-glow {
+    0%, 100% { filter: drop-shadow(0 0 5px #00BFFF) brightness(1); }
+    50% { filter: drop-shadow(0 0 15px #00BFFF) brightness(1.2); }
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+  
+  .tech-stack-img {
+    animation: pulse-glow 3s ease-in-out infinite;
+    transition: all 0.3s ease;
+  }
+  
+  .tech-stack-img:hover {
+    animation: rotate 2s linear infinite, pulse-glow 3s ease-in-out infinite;
+    filter: drop-shadow(0 0 20px #00BFFF) brightness(1.3);
+  }
+</style>
+
 <div align="center">
 
 ### 💻 **Languages**
-![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql&perline=6&theme=dark)
+<img class="tech-stack-img" src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql&perline=6&theme=dark" alt="Languages"/>
 
 ### 🎨 **Frontend Framework & Libraries**
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,materialui&perline=5&theme=dark)
+<img class="tech-stack-img" src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,materialui&perline=5&theme=dark" alt="Frontend"/>
 
 ### ⚙️ **Backend & Runtime**
-![Backend](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring&perline=5&theme=dark)
+<img class="tech-stack-img" src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring&perline=5&theme=dark" alt="Backend"/>
 
 ### 🗄️ **Databases & Data Stores**
-![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis&perline=5&theme=dark)
+<img class="tech-stack-img" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis&perline=5&theme=dark" alt="Databases"/>
 
 ### 🤖 **AI/ML & Data Science**
-![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,pandas&perline=5&theme=dark)
+<img class="tech-stack-img" src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,pandas&perline=5&theme=dark" alt="AI/ML"/>
 
 ### 🐳 **DevOps & Cloud**
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions&perline=5&theme=dark)
+<img class="tech-stack-img" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions&perline=5&theme=dark" alt="DevOps"/>
 
 ### 🛠️ **Tools & Platforms**
-![Tools](https://skillicons.dev/icons?i=git,linux,vscode,postman,vercel&perline=5&theme=dark)
+<img class="tech-stack-img" src="https://skillicons.dev/icons?i=git,linux,vscode,postman,vercel&perline=5&theme=dark" alt="Tools"/>
 
 </div>
 
