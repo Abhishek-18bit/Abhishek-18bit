@@ -202,6 +202,83 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <div align="center">
 
+## ⭐ **SPOTLIGHT: Key Projects**
+
+### 🧠 **Learning & Coding Platform**
+**[Repository](https://github.com/Abhishek-18bit/learning-platform)** | **[Live Platform](https://platform.abhishek-18bit.com)**
+
+> AI-powered interactive learning platform combining competitive coding with structured learning paths
+>
+> **Key Features:**
+> - 📚 Structured Learning Modules with Video Tutorials
+> - 💻 Interactive Code Editor with Real-time Execution
+> - 🎯 Personalized Learning Paths based on Skill Level
+> - 🏆 Leaderboard & Gamification System
+> - 🤖 AI-Powered Problem Recommendations
+> - 📊 Progress Tracking & Performance Analytics
+>
+> **Tech Stack:** 
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![GitHub Stars](https://img.shields.io/github/stars/Abhishek-18bit/learning-platform?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/learning-platform)
+[![GitHub Forks](https://img.shields.io/github/forks/Abhishek-18bit/learning-platform?style=flat-square&logo=github&label=Forks&color=00BFFF)](https://github.com/Abhishek-18bit/learning-platform)
+
+---
+
+### 📊 **CQL - Custom Query Language**
+**[Repository](https://github.com/Abhishek-18bit/CQL)** | **[Documentation](https://cql-docs.abhishek-18bit.com)**
+
+> Custom relational database query language implementation with full SQL-like syntax support
+>
+> **Key Features:**
+> - 🔍 Complete SQL Parser with ANTLR
+> - ⚡ Query Optimization Engine
+> - 🗂️ B+ Tree Index Implementation
+> - 🔄 ACID Transaction Support
+> - 📈 Query Performance Analysis
+> - 🛡️ Multi-level Security & Permissions
+>
+> **Tech Stack:**
+> ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
+> ![ANTLR](https://img.shields.io/badge/ANTLR-Parser-00BFFF?style=flat-square)
+
+[![GitHub Stars](https://img.shields.io/github/stars/Abhishek-18bit/CQL?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/CQL)
+[![GitHub Forks](https://img.shields.io/github/forks/Abhishek-18bit/CQL?style=flat-square&logo=github&label=Forks&color=00BFFF)](https://github.com/Abhishek-18bit/CQL)
+
+---
+
+### 🖥️ **Custom Interactive Shell (CIS)**
+**[Repository](https://github.com/Abhishek-18bit/Custom_Shell)** | **[Documentation](https://shell-docs.abhishek-18bit.com)**
+
+> Full-featured Unix-like shell implementation built from scratch in C++
+>
+> **Key Features:**
+> - 🎯 Complete Command Parsing & Execution
+> - 🔗 Pipe (`|`) & Redirection (`>`, `<`, `>>`) Support
+> - 📝 Built-in Commands (cd, pwd, echo, cat, etc.)
+> - 🌳 Background Process Management (`&`)
+> - ⚙️ Environment Variable Handling
+> - 🚀 Script Execution & Batch Processing
+> - 🛡️ Process Control & Signal Handling
+>
+> **Tech Stack:**
+> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+> ![POSIX](https://img.shields.io/badge/POSIX-Standards-FF9900?style=flat-square)
+> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+[![GitHub Stars](https://img.shields.io/github/stars/Abhishek-18bit/Custom_Shell?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
+[![GitHub Forks](https://img.shields.io/github/forks/Abhishek-18bit/Custom_Shell?style=flat-square&logo=github&label=Forks&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
+
+---
+
+## 📌 **Other Notable Projects**
+
 ### 1. **Abhishek 18Bit**
 **[Repository](https://github.com/Abhishek-18bit/Abhishek-18bit)** | **[Open Repository](https://github.com/Abhishek-18bit/Abhishek-18bit/blob/main/README.md)**
 
@@ -216,132 +293,37 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 ### 2. **.Github**
 **[Repository](https://github.com/Abhishek-18bit/.github)** | **[Open Repository](https://github.com/Abhishek-18bit/.github/blob/main/README.md)**
 
-> No description
+> Community health & contribution guidelines
 
-**Tech Stack:** Unknown
+**Tech Stack:** Documentation
 
 [![Stars](https://img.shields.io/github/stars/.github?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/.github)
 
 ---
 
-### 3. **Portfolio**
-**[Repository](https://github.com/Abhishek-18bit/Portfolio)** | **[Open Repository](https://github.com/Abhishek-18bit/Portfolio/blob/main/README.md)**
-
-> No description
-
-**Tech Stack:** TypeScript
-
-[![Stars](https://img.shields.io/github/stars/Portfolio?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Portfolio)
-
----
-
-### 4. **Custom_Shell**
-**[Repository](https://github.com/Abhishek-18bit/Custom_Shell)** | **[Open Repository](https://github.com/Abhishek-18bit/Custom_Shell/blob/main/README.md)**
-
-> No description
-
-**Tech Stack:** C++
-
-[![Stars](https://img.shields.io/github/stars/Custom_Shell?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
-
----
-
-### 5. **Hack O Holic**
-**[Repository](https://github.com/Abhishek-18bit/Hack-o-holic)** | **[Open Repository](https://github.com/Abhishek-18bit/Hack-o-holic/blob/main/README.md)**
-
-> Phishing 
-
-**Tech Stack:** TypeScript
-
-[![Stars](https://img.shields.io/github/stars/Hack-o-holic?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Hack-o-holic)
-
----
-
-### 6. **Cql**
-**[Repository](https://github.com/Abhishek-18bit/CQL)** | **[Open Repository](https://github.com/Abhishek-18bit/CQL/blob/main/README.md)**
-
-> No description
-
-**Tech Stack:** Python
-
-[![Stars](https://img.shields.io/github/stars/CQL?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/CQL)
-
----
-
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0D1117&height=2"/>
-
----
-
-### 💼 **Personal Portfolio Website**
-**[Repository](https://github.com/Abhishek-18bit/portfolio)** | **[Live Demo](https://abhishek-18bit.com)**
+### 3. **Portfolio Website**
+**[Repository](https://github.com/Abhishek-18bit/Portfolio)** | **[Live Demo](https://abhishek-18bit.com)**
 
 > Interactive portfolio with 3D animations and project showcase
-> 
-> **Features:** 3D Models • Smooth Animations • Project Showcase • Blog Integration • Contact Form
->
-> **Tech Stack:** React • Three.js • Tailwind CSS • Framer Motion • Vercel
->
-> ![Stars](https://img.shields.io/github/stars/Abhishek-18bit/portfolio?style=flat-square&logo=github&label=Stars&color=00BFFF)
-> ![Forks](https://img.shields.io/github/forks/Abhishek-18bit/portfolio?style=flat-square&logo=github&label=Forks&color=00BFFF)
+
+**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Stars](https://img.shields.io/github/stars/Abhishek-18bit/Portfolio?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Portfolio)
 
 ---
 
-### 🏆 **Hack-o-holic - Hackathon Platform**
-**[Repository](https://github.com/Abhishek-18bit/hackathon-platform)** | **[Live Demo](https://hackaholics.com)**
+### 4. **Hack-o-holic**
+**[Repository](https://github.com/Abhishek-18bit/Hack-o-holic)** | **[Explore](https://github.com/Abhishek-18bit/Hack-o-holic)**
 
-> Full-stack hackathon management platform with team collaboration
-> 
-> **Features:** Team Registration • Real-time Submissions • Live Judging • Leaderboard • Notifications
->
-> **Tech Stack:** MERN Stack • WebSockets • JWT Auth • Stripe Integration
->
-> ![Stars](https://img.shields.io/github/stars/Abhishek-18bit/hackathon-platform?style=flat-square&logo=github&label=Stars&color=00BFFF)
-> ![Forks](https://img.shields.io/github/forks/Abhishek-18bit/hackathon-platform?style=flat-square&logo=github&label=Forks&color=00BFFF)
+> Security & Hacking Platform
+
+**Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Stars](https://img.shields.io/github/stars/Abhishek-18bit/Hack-o-holic?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Hack-o-holic)
 
 ---
-
-### 🖥️ **Custom Interactive Shell**
-**[Repository](https://github.com/Abhishek-18bit/shell-implementation)** | **[Documentation](https://shell-docs.com)**
-
-> Command-line shell written from scratch with C++
-> 
-> **Features:** Command Parsing • Piping & Redirection • Scripting Support • Process Management
->
-> **Tech Stack:** C++ • System Calls • POSIX Standards
->
-> ![Stars](https://img.shields.io/github/stars/Abhishek-18bit/shell-implementation?style=flat-square&logo=github&label=Stars&color=00BFFF)
-> ![Forks](https://img.shields.io/github/forks/Abhishek-18bit/shell-implementation?style=flat-square&logo=github&label=Forks&color=00BFFF)
-
----
-
-### 📊 **CQL - Database Query Language**
-**[Repository](https://github.com/Abhishek-18bit/cql)** | **[Wiki](https://cql-wiki.com)**
-
-> Custom query language implementation for relational databases
-> 
-> **Features:** SQL Parser • Query Optimization • Index Management • Transaction Support
->
-> **Tech Stack:** Java • ANTLR • Data Structures • Algorithms
->
-> ![Stars](https://img.shields.io/github/stars/Abhishek-18bit/cql?style=flat-square&logo=github&label=Stars&color=00BFFF)
-> ![Forks](https://img.shields.io/github/forks/Abhishek-18bit/cql?style=flat-square&logo=github&label=Forks&color=00BFFF)
-
----
-
-### 🤖 **ML Model Deployment Suite**
-**[Repository](https://github.com/Abhishek-18bit/ml-deployment)** | **[API Docs](https://ml-api.docs.com)**
-
-> Production-ready ML pipeline with containerization and monitoring
-> 
-> **Features:** Model Serving • Auto-scaling • Performance Monitoring • A/B Testing • CI/CD Pipeline
->
-> **Tech Stack:** PyTorch • FastAPI • Docker • Kubernetes • Prometheus
->
-> ![Stars](https://img.shields.io/github/stars/Abhishek-18bit/ml-deployment?style=flat-square&logo=github&label=Stars&color=00BFFF)
-> ![Forks](https://img.shields.io/github/forks/Abhishek-18bit/ml-deployment?style=flat-square&logo=github&label=Forks&color=00BFFF)
 
 </div>
 
