@@ -126,11 +126,36 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ### 📊 **Real-Time LeetCode Statistics**
 
-[![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/api?username=Abhishek_126&theme=dark)](https://leetcode.com/u/Abhishek_126/)
-
+<table>
+<tr>
+<td align="center"><strong>Total Solved</strong></td>
+<td align="center"><strong>Easy</strong></td>
+<td align="center"><strong>Medium</strong></td>
+<td align="center"><strong>Hard</strong></td>
+<td align="center"><strong>Acceptance</strong></td>
+</tr>
+<tr>
+<td align="center">
 <a href="https://leetcode.com/u/Abhishek_126/" target="_blank">
-  <img src="https://img.shields.io/badge/Problems%20Solved-350%2B-brightgreen?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/350%2B-Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/150%2B-Easy-green?style=for-the-badge&logo=leetcode" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/150%2B-Medium-orange?style=for-the-badge&logo=leetcode" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/50%2B-Hard-red?style=for-the-badge&logo=leetcode" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/50%25-Acceptance-0DB7ED?style=for-the-badge&logo=leetcode" />
+</td>
+</tr>
+</table>
+
+**[View Full LeetCode Profile →](https://leetcode.com/u/Abhishek_126/)**
 
 ### 🏆 **Other Platforms**
 
