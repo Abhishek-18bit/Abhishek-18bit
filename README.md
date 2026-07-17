@@ -89,55 +89,19 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <div align="center">
 
-### 💫 **Languages** ⚡
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
+<a href="https://github.com/Abhishek-18bit?tab=repositories">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=00BFFF&center=true&vCenter=true&width=620&lines=%3C%2F%3E+Tech+Toolbox;%E2%9A%A1+Build.+Learn.+Ship.;%F0%9F%9A%80+Full-Stack+%2B+AI+Engineering" alt="Animated Tech Toolbox heading" />
+</a>
 
-### 🎨 **Frontend Framework & Libraries** 🚀
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+<br/>
 
-### ⚙️ **Backend & Runtime** 🔧
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,python,java,cpp,github,mysql,docker,aws,nginx,graphql,postman,django,prettier,eslint,kubernetes,sass,webpack,redux,nextjs,html,css,tailwind,nodejs,express,prisma,flask,postgres,mongodb,git,vscode,vercel,tensorflow,pytorch&theme=dark&perline=7" alt="JavaScript, TypeScript, React, Python, Java, C++, GitHub, MySQL, Docker, AWS, Nginx, GraphQL, Postman, Django, Prettier, ESLint, Kubernetes, Sass, Webpack, Redux, Next.js, HTML, CSS, Tailwind CSS, Node.js, Express, Prisma, Flask, PostgreSQL, MongoDB, Git, VS Code, Vercel, TensorFlow, and PyTorch" />
 
-### 🗄️ **Databases & Data Stores** 💾
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<br/><br/>
 
-### 🤖 **AI/ML & Data Science** 🧠
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### 🐳 **DevOps & Cloud** ☁️
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### 🛠️ **Tools & Platforms** 🎯
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/FRONTEND-React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Tailwind-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22" alt="Frontend skills" />
+<img src="https://img.shields.io/badge/BACKEND-Node.js%20%E2%80%A2%20Django%20%E2%80%A2%20Flask-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=161B22" alt="Backend skills" />
+<img src="https://img.shields.io/badge/AI%20%26%20DATA-Python%20%E2%80%A2%20TensorFlow%20%E2%80%A2%20SQL-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=161B22" alt="AI and data skills" />
 
 </div>
 
@@ -389,52 +353,21 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ---
 
-## 📊 **GitHub Analytics & Stats**
+## 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
 
-### 📈 **GitHub Performance**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-18bit&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&border_color=00BFFF&border_radius=10&include_all_commits=true)](https://github.com/Abhishek-18bit)
-
-<br>
-
-### 💻 **Top Languages & Skills**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LANGUAGE%20MIX-SELECTED%20PROJECTS-00BFFF?style=for-the-badge&logo=codacy&logoColor=white&labelColor=0D1117" alt="Language mix across selected projects" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-18bit&theme=tokyonight" alt="GitHub contribution graph" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22" alt="Python 20 percent" />
-<img src="https://img.shields.io/badge/JavaScript-18%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111&labelColor=161B22" alt="JavaScript 18 percent" />
-<img src="https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161B22" alt="TypeScript 15 percent" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-14%25-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java 14 percent" />
-<img src="https://img.shields.io/badge/C%2B%2B-12%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=161B22" alt="C plus plus 12 percent" />
-<img src="https://img.shields.io/badge/SQL-10%25-CC2927?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=161B22" alt="SQL 10 percent" />
-<img src="https://img.shields.io/badge/Others-11%25-6E7681?style=for-the-badge&labelColor=161B22" alt="Other technologies 11 percent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-18bit&theme=tokyonight" width="49%" alt="GitHub profile statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishek-18bit&theme=tokyonight&utcOffset=5.5" width="49%" alt="Most productive coding hours" />
 
 <br/><br/>
 
-<sub>Core strengths across full-stack engineering, problem solving, and data-driven development.</sub>
-
-</div>
-
-<br>
-
-### 🔥 **Contribution Streaks**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-18bit&theme=tokyonight&background=0D1117&border=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&stroke=00BFFF)](https://github.com/Abhishek-18bit)
-
-<br>
-
-### 📊 **Activity Graph**
-
-[![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-18bit&bg_color=0D1117&color=00BFFF&line=1f6feb&point=58a6ff&area=true&hide_border=true&radius=12)](https://github.com/Abhishek-18bit)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-18bit&theme=tokyonight" width="49%" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-18bit&theme=tokyonight" width="49%" alt="Top languages by commit" />
 
 </div>
 
