@@ -1,5 +1,3 @@
-# 🎨 **ABHISHEK KUMAR** - Premium Developer Profile
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=ABHISHEK%20KUMAR&fontSize=90&fontColor=00BFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Building%20Next%20Gen%20Apps&descAlignY=51&descAlign=62"/>
 
 <div align="center">
