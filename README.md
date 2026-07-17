@@ -395,13 +395,21 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ### 📈 **GitHub Performance**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-18bit&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&border_color=00BFFF&border_radius=10)](https://github.com/Abhishek-18bit)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-18bit&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&border_color=00BFFF&border_radius=10&include_all_commits=true)](https://github.com/Abhishek-18bit)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-18bit&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF&border_radius=10&layout=compact&langs_count=8)](https://github.com/Abhishek-18bit)
+<br>
+
+### 💻 **Top Languages**
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-18bit&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF&border_radius=10&layout=compact&langs_count=10&hide=html,css)](https://github.com/Abhishek-18bit)
+
+<br>
 
 ### 🔥 **Contribution Streaks**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-18bit&theme=tokyonight&background=0D1117&border=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&stroke=00BFFF)](https://github.com/Abhishek-18bit)
+
+<br>
 
 ### 📊 **Activity Graph**
 
