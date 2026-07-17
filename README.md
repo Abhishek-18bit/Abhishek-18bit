@@ -136,22 +136,22 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 <tr>
 <td align="center">
 <a href="https://leetcode.com/u/Abhishek_126/" target="_blank">
-<img src="https://img.shields.io/badge/Loading...-Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/314-Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Loading...-Easy-green?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/169-Easy-green?style=for-the-badge&logo=leetcode" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Loading...-Medium-orange?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/136-Medium-orange?style=for-the-badge&logo=leetcode" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Loading...-Hard-red?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/9-Hard-red?style=for-the-badge&logo=leetcode" />
 </td>
 </tr>
 </table>
 
-**Last Updated:** Initializing...
+**Last Updated:** 2026-07-17 18:59 UTC
 
 **[View Full LeetCode Profile →](https://leetcode.com/u/Abhishek_126/)**
 

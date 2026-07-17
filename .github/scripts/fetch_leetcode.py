@@ -8,26 +8,12 @@ def fetch_leetcode_stats(username):
     
     query = """
     query getUserProfile($username: String!) {
-        allQuestionsCount {
-            difficulty
-            count
-        }
         matchedUser(username: $username) {
             username
-            profile {
-                realName
-                userAvatar
-            }
             submitStats {
                 acSubmissionNum {
                     difficulty
                     count
-                    submissions
-                }
-                totalSubmissionNum {
-                    difficulty
-                    count
-                    submissions
                 }
             }
         }
@@ -36,23 +22,23 @@ def fetch_leetcode_stats(username):
     
     headers = {
         'Content-Type': 'application/json',
-        'User-Agent': 'Mozilla/5.0'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
     
     try:
+        print(f"🔄 Fetching stats for {username}...")
         response = requests.post(
             'https://leetcode.com/graphql',
             json={'query': query, 'variables': {'username': username}},
             headers=headers,
-            timeout=10
+            timeout=15
         )
         
         if response.status_code == 200:
             data = response.json()
             
             if 'data' in data and data['data']['matchedUser']:
-                user_data = data['data']['matchedUser']
-                ac_stats = user_data['submitStats']['acSubmissionNum']
+                ac_stats = data['data']['matchedUser']['submitStats']['acSubmissionNum']
                 
                 # Extract stats by difficulty
                 stats = {
@@ -72,81 +58,96 @@ def fetch_leetcode_stats(username):
                     elif item['difficulty'] == 'Hard':
                         stats['hard'] = item['count']
                 
+                print(f"✅ Stats fetched successfully!")
+                print(f"   Total: {stats['total']}")
+                print(f"   Easy: {stats['easy']}")
+                print(f"   Medium: {stats['medium']}")
+                print(f"   Hard: {stats['hard']}")
+                
                 return stats
-        
-        print(f"Error: {response.status_code}")
-        return None
+            else:
+                print("❌ User not found or no submission stats")
+                return None
+        else:
+            print(f"❌ HTTP Error: {response.status_code}")
+            print(f"Response: {response.text}")
+            return None
         
     except Exception as e:
-        print(f"Error fetching data: {e}")
+        print(f"❌ Error fetching data: {e}")
+        import traceback
+        traceback.print_exc()
         return None
 
 def update_readme(stats):
     """Update README with real stats"""
     
     if not stats:
-        print("Could not fetch stats")
-        return
+        print("❌ Could not fetch stats, skipping update")
+        return False
     
-    # Create the new stats section
-    stats_section = f"""<table>
-<tr>
-<td align="center"><strong>Total Solved</strong></td>
-<td align="center"><strong>Easy</strong></td>
-<td align="center"><strong>Medium</strong></td>
-<td align="center"><strong>Hard</strong></td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://leetcode.com/u/Abhishek_126/" target="_blank">
-<img src="https://img.shields.io/badge/{stats['total']}-Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/{stats['easy']}-Easy-green?style=for-the-badge&logo=leetcode" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/{stats['medium']}-Medium-orange?style=for-the-badge&logo=leetcode" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/{stats['hard']}-Hard-red?style=for-the-badge&logo=leetcode" />
-</td>
-</tr>
-</table>
-
-**Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}
-
-**[View Full LeetCode Profile →](https://leetcode.com/u/Abhishek_126/)**"""
-    
-    # Read current README
-    with open('README.md', 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Replace the stats section (between the table markers)
-    pattern = r'(<table>.*?</table>.*?\*\*\[View Full LeetCode Profile.*?\)\*\*)'
-    
-    if re.search(pattern, content, re.DOTALL):
-        new_content = re.sub(pattern, stats_section, content, flags=re.DOTALL)
-    else:
-        # If pattern not found, just return without updating
-        print("Stats section pattern not found in README")
-        return
-    
-    # Write updated README
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    
-    print(f"✅ Updated README with real stats:")
-    print(f"   Total: {stats['total']}")
-    print(f"   Easy: {stats['easy']}")
-    print(f"   Medium: {stats['medium']}")
-    print(f"   Hard: {stats['hard']}")
+    try:
+        # Read current README
+        with open('README.md', 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Create replacement for each badge
+        total_badge = f'<img src="https://img.shields.io/badge/{stats["total"]}-Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />'
+        easy_badge = f'<img src="https://img.shields.io/badge/{stats["easy"]}-Easy-green?style=for-the-badge&logo=leetcode" />'
+        medium_badge = f'<img src="https://img.shields.io/badge/{stats["medium"]}-Medium-orange?style=for-the-badge&logo=leetcode" />'
+        hard_badge = f'<img src="https://img.shields.io/badge/{stats["hard"]}-Hard-red?style=for-the-badge&logo=leetcode" />'
+        
+        # Replace Loading badges with real stats
+        new_content = content
+        new_content = new_content.replace(
+            '<img src="https://img.shields.io/badge/Loading...-Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />',
+            total_badge
+        )
+        new_content = new_content.replace(
+            '<img src="https://img.shields.io/badge/Loading...-Easy-green?style=for-the-badge&logo=leetcode" />',
+            easy_badge
+        )
+        new_content = new_content.replace(
+            '<img src="https://img.shields.io/badge/Loading...-Medium-orange?style=for-the-badge&logo=leetcode" />',
+            medium_badge
+        )
+        new_content = new_content.replace(
+            '<img src="https://img.shields.io/badge/Loading...-Hard-red?style=for-the-badge&logo=leetcode" />',
+            hard_badge
+        )
+        
+        # Update timestamp
+        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M UTC')
+        new_content = re.sub(
+            r'\*\*Last Updated:\*\*.*',
+            f'**Last Updated:** {timestamp}',
+            new_content
+        )
+        
+        # Write updated README
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        
+        print("✅ README updated successfully!")
+        return True
+        
+    except Exception as e:
+        print(f"❌ Error updating README: {e}")
+        import traceback
+        traceback.print_exc()
+        return False
 
 if __name__ == '__main__':
-    print("🔄 Fetching real-time LeetCode stats...")
+    print("=" * 50)
+    print("🔄 Updating LeetCode Stats...")
+    print("=" * 50)
+    
     stats = fetch_leetcode_stats('Abhishek_126')
     
     if stats:
         update_readme(stats)
     else:
         print("❌ Failed to fetch LeetCode stats")
+    
+    print("=" * 50)
+
