@@ -275,57 +275,7 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 [![GitHub Stars](https://img.shields.io/github/stars/Abhishek-18bit/Custom_Shell?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
 [![GitHub Forks](https://img.shields.io/github/forks/Abhishek-18bit/Custom_Shell?style=flat-square&logo=github&label=Forks&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
 
----
 
-## 📌 **Other Notable Projects**
-
-### 1. **Abhishek 18Bit**
-**[Repository](https://github.com/Abhishek-18bit/Abhishek-18bit)** | **[Open Repository](https://github.com/Abhishek-18bit/Abhishek-18bit/blob/main/README.md)**
-
-> No description
-
-**Tech Stack:** Unknown
-
-[![Stars](https://img.shields.io/github/stars/Abhishek-18bit?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Abhishek-18bit)
-
----
-
-### 2. **.Github**
-**[Repository](https://github.com/Abhishek-18bit/.github)** | **[Open Repository](https://github.com/Abhishek-18bit/.github/blob/main/README.md)**
-
-> Community health & contribution guidelines
-
-**Tech Stack:** Documentation
-
-[![Stars](https://img.shields.io/github/stars/.github?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/.github)
-
----
-
-### 3. **Portfolio Website**
-**[Repository](https://github.com/Abhishek-18bit/Portfolio)** | **[Live Demo](https://abhishek-18bit.com)**
-
-> Interactive portfolio with 3D animations and project showcase
-
-**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[![Stars](https://img.shields.io/github/stars/Abhishek-18bit/Portfolio?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Portfolio)
-
----
-
-### 4. **Hack-o-holic**
-**[Repository](https://github.com/Abhishek-18bit/Hack-o-holic)** | **[Explore](https://github.com/Abhishek-18bit/Hack-o-holic)**
-
-> Security & Hacking Platform
-
-**Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-[![Stars](https://img.shields.io/github/stars/Abhishek-18bit/Hack-o-holic?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Hack-o-holic)
-
----
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0D1117&height=2"/>
 
@@ -350,30 +300,60 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ---
 
-## 🗺️ **Developer Roadmap**
+## 🗺️ **My Developer Journey**
 
 <div align="center">
 
-```
-2023 - 2024: Foundation Phase
-  ├─ Mastered DSA & Competitive Programming
-  ├─ 200+ LeetCode Problems
-  └─ Built First Full-Stack App
+### ⏳ **Career Evolution Timeline**
 
-2024 - Present: Growth Phase
-  ├─ Reached 350+ LeetCode Problems ✅
-  ├─ AI/ML Integration
-  ├─ Open Source Contributions
-  └─ System Design Learning
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>📚 Foundation Phase</h3>
+<b>2023 - 2024</b><br><br>
+<img src="https://img.shields.io/badge/DSA%20Mastery-Complete-00D084?style=for-the-badge&logo=checkmark&logoColor=white" />
+<img src="https://img.shields.io/badge/200%2B%20LeetCode-Solved-10B981?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-First%20App-6366F1?style=for-the-badge&logo=react&logoColor=white" />
+</td>
+<td align="center" width="2%">
+<h2>→</h2>
+</td>
+<td align="center" width="33%">
+<h3>🚀 Growth Phase</h3>
+<b>2024 - Present</b><br><br>
+<img src="https://img.shields.io/badge/350%2B%20LeetCode-🎯%20Achieved-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-Integration-FF9500?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributing-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center" width="2%">
+<h2>→</h2>
+</td>
+<td align="center" width="33%">
+<h3>🌟 Expertise Phase</h3>
+<b>Future Goals</b><br><br>
+<img src="https://img.shields.io/badge/Scale%20Systems-Production-7C3AED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ML%20at%20Scale-Advanced-F59E0B?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Technical%20Lead-Goal-EC4899?style=for-the-badge&logo=star&logoColor=white" />
+</td>
+</tr>
+</table>
 
-Future: Expertise Phase
-  ├─ Production-Scale Systems
-  ├─ Machine Learning at Scale
-  ├─ Technical Leadership
-  └─ Mentoring & Community
-```
+---
 
-</div>
+### 📊 **Detailed Milestones**
+
+<details open>
+<summary><b>📌 Click to Expand Timeline Details</b></summary>
+
+<br>
+
+| Phase | Period | 🎯 Key Achievements |
+|:---:|:---:|:---|
+| 🏗️ **Foundation** | 2023 - 2024 | ✅ Mastered DSA & Competitive Programming<br>✅ Solved 200+ LeetCode Problems<br>✅ Built First Full-Stack Application<br>✅ Learned System Design Basics |
+| 🚀 **Growth** | 2024 - Present | ✅ Reached **350+ LeetCode Problems** 🔥<br>✅ Integrated AI/ML in Projects<br>✅ 50+ Open Source Contributions<br>✅ Deepened System Design Knowledge<br>✅ Built Learning & Coding Platform |
+| 🌟 **Expertise** | Future | 🎯 Design Production-Scale Systems<br>🎯 Advanced Machine Learning<br>🎯 Technical Leadership<br>🎯 Mentoring & Community Building<br>🎯 Industry Recognition |
+
+</details></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0D1117&height=2"/>
 
