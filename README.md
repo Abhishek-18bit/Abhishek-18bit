@@ -87,30 +87,96 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ## 🛠️ **Tech Stack & Skills**
 
+<style>
+@keyframes spin {
+  0% { transform: rotateY(0deg) rotateX(0deg); }
+  100% { transform: rotateY(360deg) rotateX(0deg); }
+}
+
+@keyframes glow {
+  0%, 100% { filter: drop-shadow(0 0 5px #00BFFF); }
+  50% { filter: drop-shadow(0 0 20px #00BFFF) brightness(1.2); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+}
+
+@keyframes pulse-scale {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+}
+
+@keyframes rainbow {
+  0% { filter: hue-rotate(0deg) drop-shadow(0 0 10px #00BFFF); }
+  25% { filter: hue-rotate(90deg) drop-shadow(0 0 15px #00FF00); }
+  50% { filter: hue-rotate(180deg) drop-shadow(0 0 15px #FF00FF); }
+  75% { filter: hue-rotate(270deg) drop-shadow(0 0 15px #FFFF00); }
+  100% { filter: hue-rotate(360deg) drop-shadow(0 0 10px #00BFFF); }
+}
+
+.tech-icon:nth-child(1) { animation: glow 3s ease-in-out infinite; }
+.tech-icon:nth-child(2) { animation: glow 3s ease-in-out infinite 0.2s; }
+.tech-icon:nth-child(3) { animation: glow 3s ease-in-out infinite 0.4s; }
+.tech-icon:nth-child(4) { animation: glow 3s ease-in-out infinite 0.6s; }
+.tech-icon:nth-child(5) { animation: glow 3s ease-in-out infinite 0.8s; }
+.tech-icon:nth-child(6) { animation: glow 3s ease-in-out infinite 1s; }
+</style>
+
 <div align="center">
 
-> **💻 Hover over icons to see details!**
+> **🚀 Interactive Tech Stack - Hover for Magic!**
 
-### 💫 **Languages** 
-![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql&perline=6&theme=dark)
+### 💫 **Languages** ⚡
+<a href="https://www.python.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python" style="animation: float 3s ease-in-out infinite; margin: 5px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img class="tech-icon" src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50" height="50" alt="JavaScript" style="animation: float 3s ease-in-out infinite 0.2s; margin: 5px;"/></a>
+<a href="https://www.typescriptlang.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50" height="50" alt="TypeScript" style="animation: float 3s ease-in-out infinite 0.4s; margin: 5px;"/></a>
+<a href="https://www.java.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=java&theme=dark" width="50" height="50" alt="Java" style="animation: float 3s ease-in-out infinite 0.6s; margin: 5px;"/></a>
+<a href="https://cplusplus.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" height="50" alt="C++" style="animation: float 3s ease-in-out infinite 0.8s; margin: 5px;"/></a>
+<a href="https://www.sql.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=sql&theme=dark" width="50" height="50" alt="SQL" style="animation: float 3s ease-in-out infinite 1s; margin: 5px;"/></a>
 
-### 🎨 **Frontend Framework & Libraries**
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,materialui&perline=5&theme=dark)
+### 🎨 **Frontend Framework & Libraries** 🚀
+<a href="https://react.dev/"><img class="tech-icon" src="https://skillicons.dev/icons?i=react&theme=dark" width="50" height="50" alt="React" style="animation: pulse-scale 2.5s ease-in-out infinite; margin: 5px;"/></a>
+<a href="https://nextjs.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" height="50" alt="Next.js" style="animation: pulse-scale 2.5s ease-in-out infinite 0.2s; margin: 5px;"/></a>
+<a href="https://vuejs.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vue&theme=dark" width="50" height="50" alt="Vue" style="animation: pulse-scale 2.5s ease-in-out infinite 0.4s; margin: 5px;"/></a>
+<a href="https://tailwindcss.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" height="50" alt="Tailwind" style="animation: pulse-scale 2.5s ease-in-out infinite 0.6s; margin: 5px;"/></a>
+<a href="https://mui.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=materialui&theme=dark" width="50" height="50" alt="Material UI" style="animation: pulse-scale 2.5s ease-in-out infinite 0.8s; margin: 5px;"/></a>
 
-### ⚙️ **Backend & Runtime**
-![Backend](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring&perline=5&theme=dark)
+### ⚙️ **Backend & Runtime** 🔧
+<a href="https://nodejs.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50" alt="Node.js" style="animation: rainbow 4s linear infinite; margin: 5px;"/></a>
+<a href="https://expressjs.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=express&theme=dark" width="50" height="50" alt="Express" style="animation: rainbow 4s linear infinite 0.3s; margin: 5px;"/></a>
+<a href="https://www.djangoproject.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=django&theme=dark" width="50" height="50" alt="Django" style="animation: rainbow 4s linear infinite 0.6s; margin: 5px;"/></a>
+<a href="https://fastapi.tiangolo.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50" height="50" alt="FastAPI" style="animation: rainbow 4s linear infinite 0.9s; margin: 5px;"/></a>
+<a href="https://spring.io/"><img class="tech-icon" src="https://skillicons.dev/icons?i=spring&theme=dark" width="50" height="50" alt="Spring" style="animation: rainbow 4s linear infinite 1.2s; margin: 5px;"/></a>
 
-### 🗄️ **Databases & Data Stores**
-![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis&perline=5&theme=dark)
+### 🗄️ **Databases & Data Stores** 💾
+<a href="https://www.mongodb.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" height="50" alt="MongoDB" style="animation: float 3s ease-in-out infinite; margin: 5px;"/></a>
+<a href="https://www.postgresql.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50" height="50" alt="PostgreSQL" style="animation: float 3s ease-in-out infinite 0.2s; margin: 5px;"/></a>
+<a href="https://www.mysql.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL" style="animation: float 3s ease-in-out infinite 0.4s; margin: 5px;"/></a>
+<a href="https://firebase.google.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50" height="50" alt="Firebase" style="animation: float 3s ease-in-out infinite 0.6s; margin: 5px;"/></a>
+<a href="https://redis.io/"><img class="tech-icon" src="https://skillicons.dev/icons?i=redis&theme=dark" width="50" height="50" alt="Redis" style="animation: float 3s ease-in-out infinite 0.8s; margin: 5px;"/></a>
 
-### 🤖 **AI/ML & Data Science**
-![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,pandas&perline=5&theme=dark)
+### 🤖 **AI/ML & Data Science** 🧠
+<a href="https://www.tensorflow.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="50" height="50" alt="TensorFlow" style="animation: pulse-scale 2.5s ease-in-out infinite; margin: 5px;"/></a>
+<a href="https://pytorch.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50" height="50" alt="PyTorch" style="animation: pulse-scale 2.5s ease-in-out infinite 0.2s; margin: 5px;"/></a>
+<a href="https://scikit-learn.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50" height="50" alt="Scikit-Learn" style="animation: pulse-scale 2.5s ease-in-out infinite 0.4s; margin: 5px;"/></a>
+<a href="https://keras.io/"><img class="tech-icon" src="https://skillicons.dev/icons?i=keras&theme=dark" width="50" height="50" alt="Keras" style="animation: pulse-scale 2.5s ease-in-out infinite 0.6s; margin: 5px;"/></a>
+<a href="https://pandas.pydata.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=pandas&theme=dark" width="50" height="50" alt="Pandas" style="animation: pulse-scale 2.5s ease-in-out infinite 0.8s; margin: 5px;"/></a>
 
-### 🐳 **DevOps & Cloud**
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions&perline=5&theme=dark)
+### 🐳 **DevOps & Cloud** ☁️
+<a href="https://www.docker.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" height="50" alt="Docker" style="animation: rainbow 4s linear infinite; margin: 5px;"/></a>
+<a href="https://kubernetes.io/"><img class="tech-icon" src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="50" height="50" alt="Kubernetes" style="animation: rainbow 4s linear infinite 0.3s; margin: 5px;"/></a>
+<a href="https://aws.amazon.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=aws&theme=dark" width="50" height="50" alt="AWS" style="animation: rainbow 4s linear infinite 0.6s; margin: 5px;"/></a>
+<a href="https://cloud.google.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=gcp&theme=dark" width="50" height="50" alt="Google Cloud" style="animation: rainbow 4s linear infinite 0.9s; margin: 5px;"/></a>
+<a href="https://github.com/features/actions"><img class="tech-icon" src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50" height="50" alt="GitHub Actions" style="animation: rainbow 4s linear infinite 1.2s; margin: 5px;"/></a>
 
-### 🛠️ **Tools & Platforms**
-![Tools](https://skillicons.dev/icons?i=git,linux,vscode,postman,vercel&perline=5&theme=dark)
+### 🛠️ **Tools & Platforms** 🎯
+<a href="https://git-scm.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git" style="animation: float 3s ease-in-out infinite; margin: 5px;"/></a>
+<a href="https://www.linux.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" alt="Linux" style="animation: float 3s ease-in-out infinite 0.2s; margin: 5px;"/></a>
+<a href="https://code.visualstudio.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code" style="animation: float 3s ease-in-out infinite 0.4s; margin: 5px;"/></a>
+<a href="https://www.postman.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" height="50" alt="Postman" style="animation: float 3s ease-in-out infinite 0.6s; margin: 5px;"/></a>
+<a href="https://vercel.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" height="50" alt="Vercel" style="animation: float 3s ease-in-out infinite 0.8s; margin: 5px;"/></a>
 
 </div>
 
