@@ -36,7 +36,7 @@
 &nbsp;&nbsp;
 [![💻 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-18bit)
 &nbsp;&nbsp;
-[![🧑‍💻 LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Abhishek-18bit)
+[![🧑‍💻 LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhishek_126/)
 
 [![📧 Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.18bit@gmail.com)
 &nbsp;&nbsp;
@@ -122,7 +122,7 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Abhishek-18bit&theme=dark&animated=true)](https://leetcode.com/Abhishek-18bit)
+[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Abhishek_126&theme=dark&animated=true)](https://leetcode.com/u/Abhishek_126/)
 
 | Platform | Achievement |
 |----------|-------------|
@@ -353,7 +353,7 @@ Future: Expertise Phase
 - **Problem Solving:** Medium/Hard Level Problems
 - **System Design:** Scalable Systems, Distributed Computing
 
-[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Abhishek-18bit&theme=dark&animated=true)](https://leetcode.com/Abhishek-18bit)
+[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Abhishek_126&theme=dark&animated=true)](https://leetcode.com/u/Abhishek_126/)
 
 </div>
 
@@ -379,7 +379,7 @@ Future: Expertise Phase
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abhishek-kumar-18bit)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/Abhishek-18bit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/Abhishek_126/)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F99?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](https://codeforces.com/profile/Abhishek_18bit)
 &nbsp;
