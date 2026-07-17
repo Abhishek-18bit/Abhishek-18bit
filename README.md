@@ -357,11 +357,9 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-18bit&theme=tokyonight" width="100%" alt="GitHub contribution graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-18bit&theme=tokyonight" width="82%" alt="GitHub profile statistics and yearly contribution chart" />
+<a href="https://github.com/Abhishek-18bit">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-18bit&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="100%" alt="Purple GitHub contribution graph" />
+</a>
 
 <br/><br/>
 
