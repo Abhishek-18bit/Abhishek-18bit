@@ -90,146 +90,54 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 <div align="center">
 
 ### 💫 **Languages** ⚡
-
-<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
-      .lang-icon { animation: float 3s ease-in-out infinite; }
-      .lang-icon:nth-child(2) { animation-delay: 0.2s; }
-      .lang-icon:nth-child(3) { animation-delay: 0.4s; }
-      .lang-icon:nth-child(4) { animation-delay: 0.6s; }
-      .lang-icon:nth-child(5) { animation-delay: 0.8s; }
-      .lang-icon:nth-child(6) { animation-delay: 1s; }
-    </style>
-  </defs>
-  <image class="lang-icon" x="0" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=python&theme=dark"/>
-  <image class="lang-icon" x="65" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=javascript&theme=dark"/>
-  <image class="lang-icon" x="130" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=typescript&theme=dark"/>
-  <image class="lang-icon" x="195" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=java&theme=dark"/>
-  <image class="lang-icon" x="260" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=cpp&theme=dark"/>
-  <image class="lang-icon" x="325" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=sql&theme=dark"/>
-</svg>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
 
 ### 🎨 **Frontend Framework & Libraries** 🚀
-
-<svg width="350" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.08); } }
-      .fe-icon { animation: pulse 2.5s ease-in-out infinite; }
-      .fe-icon:nth-child(2) { animation-delay: 0.2s; }
-      .fe-icon:nth-child(3) { animation-delay: 0.4s; }
-      .fe-icon:nth-child(4) { animation-delay: 0.6s; }
-      .fe-icon:nth-child(5) { animation-delay: 0.8s; }
-    </style>
-  </defs>
-  <image class="fe-icon" x="0" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=react&theme=dark"/>
-  <image class="fe-icon" x="65" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=nextjs&theme=dark"/>
-  <image class="fe-icon" x="130" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=vue&theme=dark"/>
-  <image class="fe-icon" x="195" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=tailwind&theme=dark"/>
-  <image class="fe-icon" x="260" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=materialui&theme=dark"/>
-</svg>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 ### ⚙️ **Backend & Runtime** 🔧
-
-<svg width="350" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes spin { 0% { transform: rotateZ(0deg); } 100% { transform: rotateZ(360deg); } }
-      .be-icon { animation: spin 4s linear infinite; }
-      .be-icon:nth-child(2) { animation-delay: 0.2s; }
-      .be-icon:nth-child(3) { animation-delay: 0.4s; }
-      .be-icon:nth-child(4) { animation-delay: 0.6s; }
-      .be-icon:nth-child(5) { animation-delay: 0.8s; }
-    </style>
-  </defs>
-  <image class="be-icon" x="0" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
-  <image class="be-icon" x="65" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=express&theme=dark"/>
-  <image class="be-icon" x="130" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=django&theme=dark"/>
-  <image class="be-icon" x="195" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
-  <image class="be-icon" x="260" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=spring&theme=dark"/>
-</svg>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### 🗄️ **Databases & Data Stores** 💾
-
-<svg width="350" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes glow { 0%, 100% { filter: drop-shadow(0 0 5px #00BFFF); } 50% { filter: drop-shadow(0 0 15px #00BFFF) brightness(1.1); } }
-      .db-icon { animation: glow 3s ease-in-out infinite; }
-      .db-icon:nth-child(2) { animation-delay: 0.2s; }
-      .db-icon:nth-child(3) { animation-delay: 0.4s; }
-      .db-icon:nth-child(4) { animation-delay: 0.6s; }
-      .db-icon:nth-child(5) { animation-delay: 0.8s; }
-    </style>
-  </defs>
-  <image class="db-icon" x="0" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
-  <image class="db-icon" x="65" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=postgres&theme=dark"/>
-  <image class="db-icon" x="130" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-  <image class="db-icon" x="195" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=firebase&theme=dark"/>
-  <image class="db-icon" x="260" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=redis&theme=dark"/>
-</svg>
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### 🤖 **AI/ML & Data Science** 🧠
-
-<svg width="350" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.08); } }
-      .ai-icon { animation: pulse 2.5s ease-in-out infinite; }
-      .ai-icon:nth-child(2) { animation-delay: 0.2s; }
-      .ai-icon:nth-child(3) { animation-delay: 0.4s; }
-      .ai-icon:nth-child(4) { animation-delay: 0.6s; }
-      .ai-icon:nth-child(5) { animation-delay: 0.8s; }
-    </style>
-  </defs>
-  <image class="ai-icon" x="0" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
-  <image class="ai-icon" x="65" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
-  <image class="ai-icon" x="130" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
-  <image class="ai-icon" x="195" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=keras&theme=dark"/>
-  <image class="ai-icon" x="260" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=pandas&theme=dark"/>
-</svg>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### 🐳 **DevOps & Cloud** ☁️
-
-<svg width="350" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes spin { 0% { transform: rotateZ(0deg); } 100% { transform: rotateZ(360deg); } }
-      .devops-icon { animation: spin 4s linear infinite; }
-      .devops-icon:nth-child(2) { animation-delay: 0.2s; }
-      .devops-icon:nth-child(3) { animation-delay: 0.4s; }
-      .devops-icon:nth-child(4) { animation-delay: 0.6s; }
-      .devops-icon:nth-child(5) { animation-delay: 0.8s; }
-    </style>
-  </defs>
-  <image class="devops-icon" x="0" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=docker&theme=dark"/>
-  <image class="devops-icon" x="65" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=kubernetes&theme=dark"/>
-  <image class="devops-icon" x="130" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=aws&theme=dark"/>
-  <image class="devops-icon" x="195" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=gcp&theme=dark"/>
-  <image class="devops-icon" x="260" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=githubactions&theme=dark"/>
-</svg>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 🛠️ **Tools & Platforms** 🎯
-
-<svg width="350" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
-      .tools-icon { animation: float 3s ease-in-out infinite; }
-      .tools-icon:nth-child(2) { animation-delay: 0.2s; }
-      .tools-icon:nth-child(3) { animation-delay: 0.4s; }
-      .tools-icon:nth-child(4) { animation-delay: 0.6s; }
-      .tools-icon:nth-child(5) { animation-delay: 0.8s; }
-    </style>
-  </defs>
-  <image class="tools-icon" x="0" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=git&theme=dark"/>
-  <image class="tools-icon" x="65" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=linux&theme=dark"/>
-  <image class="tools-icon" x="130" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=vscode&theme=dark"/>
-  <image class="tools-icon" x="195" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=postman&theme=dark"/>
-  <image class="tools-icon" x="260" y="0" width="60" height="60" href="https://skillicons.dev/icons?i=vercel&theme=dark"/>
-</svg>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
