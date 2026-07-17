@@ -357,17 +357,17 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-18bit&theme=tokyonight" alt="GitHub contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-18bit&theme=tokyonight" width="100%" alt="GitHub contribution graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-18bit&theme=tokyonight" width="49%" alt="GitHub profile statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishek-18bit&theme=tokyonight&utcOffset=5.5" width="49%" alt="Most productive coding hours" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-18bit&theme=tokyonight" width="82%" alt="GitHub profile statistics and yearly contribution chart" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-18bit&theme=tokyonight" width="49%" alt="Top languages by repository" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-18bit&theme=tokyonight" width="49%" alt="Top languages by commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-18bit&theme=tokyonight" width="32%" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-18bit&theme=tokyonight" width="32%" alt="Top languages by commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishek-18bit&theme=tokyonight&utcOffset=5.5" width="32%" alt="Most productive coding hours" />
 
 </div>
 
