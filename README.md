@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/Abhishek-18bit?label=FOLLOWERS&style=flat-square&logo=github&color=0D1117&labelColor=00BFFF)](https://github.com/Abhishek-18bit?tab=followers)
 &nbsp;&nbsp;
-[![GitHub Repositories](https://img.shields.io/badge/REPOSITORIES-30+-0D1117?style=flat-square&logo=github&logoColor=00BFFF&labelColor=0D1117)](https://github.com/Abhishek-18bit?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/REPOSITORIES-8+-0D1117?style=flat-square&logo=github&logoColor=00BFFF&labelColor=0D1117)](https://github.com/Abhishek-18bit?tab=repositories)
 &nbsp;&nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/Abhishek-18bit?label=TOTAL%20STARS&style=flat-square&logo=github&color=0D1117&labelColor=00BFFF)](https://github.com/Abhishek-18bit?tab=repositories)
 
@@ -294,17 +294,76 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <div align="center">
 
-### 🎓 **AI Learning & Coding Platform**
-**[Repository](https://github.com/Abhishek-18bit/learning-platform)** | **[Live Demo](https://learning-platform.com)**
+### 1. **Abhishek 18Bit**
+**[Repository](https://github.com/Abhishek-18bit/Abhishek-18bit)** | **[Open Repository](https://github.com/Abhishek-18bit/Abhishek-18bit/blob/main/README.md)**
 
-> Comprehensive platform for learning DSA and competitive programming with AI-powered personalization
-> 
-> **Features:** Real-time Code Execution • AI-Powered Problem Recommendation • Progress Tracking • Live Leaderboard
->
-> **Tech Stack:** Next.js • Node.js • MongoDB • TensorFlow • Socket.io
->
-> ![Stars](https://img.shields.io/github/stars/Abhishek-18bit/learning-platform?style=flat-square&logo=github&label=Stars&color=00BFFF)
-> ![Forks](https://img.shields.io/github/forks/Abhishek-18bit/learning-platform?style=flat-square&logo=github&label=Forks&color=00BFFF)
+> No description
+
+**Tech Stack:** Unknown
+
+[![Stars](https://img.shields.io/github/stars/Abhishek-18bit?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Abhishek-18bit)
+
+---
+
+### 2. **.Github**
+**[Repository](https://github.com/Abhishek-18bit/.github)** | **[Open Repository](https://github.com/Abhishek-18bit/.github/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** Unknown
+
+[![Stars](https://img.shields.io/github/stars/.github?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/.github)
+
+---
+
+### 3. **Portfolio**
+**[Repository](https://github.com/Abhishek-18bit/Portfolio)** | **[Open Repository](https://github.com/Abhishek-18bit/Portfolio/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** TypeScript
+
+[![Stars](https://img.shields.io/github/stars/Portfolio?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Portfolio)
+
+---
+
+### 4. **Custom_Shell**
+**[Repository](https://github.com/Abhishek-18bit/Custom_Shell)** | **[Open Repository](https://github.com/Abhishek-18bit/Custom_Shell/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** C++
+
+[![Stars](https://img.shields.io/github/stars/Custom_Shell?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
+
+---
+
+### 5. **Hack O Holic**
+**[Repository](https://github.com/Abhishek-18bit/Hack-o-holic)** | **[Open Repository](https://github.com/Abhishek-18bit/Hack-o-holic/blob/main/README.md)**
+
+> Phishing 
+
+**Tech Stack:** TypeScript
+
+[![Stars](https://img.shields.io/github/stars/Hack-o-holic?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Hack-o-holic)
+
+---
+
+### 6. **Cql**
+**[Repository](https://github.com/Abhishek-18bit/CQL)** | **[Open Repository](https://github.com/Abhishek-18bit/CQL/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** Python
+
+[![Stars](https://img.shields.io/github/stars/CQL?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/CQL)
+
+---
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0D1117&height=2"/>
 
 ---
 
