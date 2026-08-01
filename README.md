@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"Learning never exhausts the mind."* — Leonardo da Vinci
+> *"The only way to do great work is to love what you do."* — Steve Jobs
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> Python is named after Monty Python, not the snake.
+> Email existed before the World Wide Web.
 <!-- DAILY_FACT_END -->
 
 </div>
