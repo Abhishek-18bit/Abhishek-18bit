@@ -321,6 +321,68 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 ---
 
+### 2. **.Github**
+**[Repository](https://github.com/Abhishek-18bit/.github)** | **[Open Repository](https://github.com/Abhishek-18bit/.github/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** Unknown
+
+[![Stars](https://img.shields.io/github/stars/.github?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/.github)
+
+---
+
+### 3. **Portfolio**
+**[Repository](https://github.com/Abhishek-18bit/Portfolio)** | **[Open Repository](https://github.com/Abhishek-18bit/Portfolio/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** TypeScript
+
+[![Stars](https://img.shields.io/github/stars/Portfolio?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Portfolio)
+
+---
+
+### 4. **Custom_Shell**
+**[Repository](https://github.com/Abhishek-18bit/Custom_Shell)** | **[Open Repository](https://github.com/Abhishek-18bit/Custom_Shell/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** C++
+
+[![Stars](https://img.shields.io/github/stars/Custom_Shell?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
+
+---
+
+### 5. **Hack O Holic**
+**[Repository](https://github.com/Abhishek-18bit/Hack-o-holic)** | **[Open Repository](https://github.com/Abhishek-18bit/Hack-o-holic/blob/main/README.md)**
+
+> Phishing 
+
+**Tech Stack:** TypeScript
+
+[![Stars](https://img.shields.io/github/stars/Hack-o-holic?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Hack-o-holic)
+
+---
+
+### 6. **Cql**
+**[Repository](https://github.com/Abhishek-18bit/CQL)** | **[Open Repository](https://github.com/Abhishek-18bit/CQL/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** Python
+
+[![Stars](https://img.shields.io/github/stars/CQL?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/CQL)
+
+---
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0D1117&height=2"/>
+
+---
+
 ### 📊 **CQL - Custom Query Language**
 **[Repository](https://github.com/Abhishek-18bit/CQL)** | **[Documentation](https://cql-docs.abhishek-18bit.com)**
 
