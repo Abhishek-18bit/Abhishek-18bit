@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"Great things are done by a series of small things brought together."* — Vincent van Gogh
+> *"The best way to predict the future is to invent it."* — Alan Kay
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> The first computer bug was an actual moth found in a relay of the Harvard Mark II in 1947.
+> The first website is still online and was published by Tim Berners-Lee in 1991.
 <!-- DAILY_FACT_END -->
 
 </div>
