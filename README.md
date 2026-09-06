@@ -186,7 +186,18 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 
 <div align="center">
 
-### 1. **Urlshortner**
+### 1. **Blog Writing**
+**[Repository](https://github.com/Abhishek-18bit/Blog-Writing)** | **[Open Repository](https://github.com/Abhishek-18bit/Blog-Writing/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** EJS
+
+[![Stars](https://img.shields.io/github/stars/Blog-Writing?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Blog-Writing)
+
+---
+
+### 2. **Urlshortner**
 **[Repository](https://github.com/Abhishek-18bit/UrlShortner)** | **[Open Repository](https://github.com/Abhishek-18bit/UrlShortner/blob/main/README.md)**
 
 > No description
@@ -194,6 +205,57 @@ Currently, I'm working on an **AI-powered Learning & Coding Platform** that comb
 **Tech Stack:** JavaScript
 
 [![Stars](https://img.shields.io/github/stars/UrlShortner?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/UrlShortner)
+
+---
+
+### 3. **Abhishek 18Bit**
+**[Repository](https://github.com/Abhishek-18bit/Abhishek-18bit)** | **[Open Repository](https://github.com/Abhishek-18bit/Abhishek-18bit/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** Unknown
+
+[![Stars](https://img.shields.io/github/stars/Abhishek-18bit?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Abhishek-18bit)
+
+---
+
+### 4. **.Github**
+**[Repository](https://github.com/Abhishek-18bit/.github)** | **[Open Repository](https://github.com/Abhishek-18bit/.github/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** Unknown
+
+[![Stars](https://img.shields.io/github/stars/.github?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/.github)
+
+---
+
+### 5. **Portfolio**
+**[Repository](https://github.com/Abhishek-18bit/Portfolio)** | **[Open Repository](https://github.com/Abhishek-18bit/Portfolio/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** TypeScript
+
+[![Stars](https://img.shields.io/github/stars/Portfolio?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Portfolio)
+
+---
+
+### 6. **Custom_Shell**
+**[Repository](https://github.com/Abhishek-18bit/Custom_Shell)** | **[Open Repository](https://github.com/Abhishek-18bit/Custom_Shell/blob/main/README.md)**
+
+> No description
+
+**Tech Stack:** C++
+
+[![Stars](https://img.shields.io/github/stars/Custom_Shell?style=flat-square&logo=github&label=Stars&color=00BFFF)](https://github.com/Abhishek-18bit/Custom_Shell)
+
+---
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0D1117&height=2"/>
 
 ---
 
