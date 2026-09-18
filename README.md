@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"Simplicity is the soul of efficiency."* — Austin Freeman
+> *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> The first 1 GB hard drive weighed more than 500 pounds.
+> The word 'algorithm' comes from the name of the Persian mathematician Al-Khwarizmi.
 <!-- DAILY_FACT_END -->
 
 </div>
