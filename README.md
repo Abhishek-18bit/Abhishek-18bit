@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"Make it work, make it right, make it fast."* — Kent Beck
+> *"Great things are done by a series of small things brought together."* — Vincent van Gogh
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> Over half of all websites use JavaScript in the browser.
+> The first computer bug was an actual moth found in a relay of the Harvard Mark II in 1947.
 <!-- DAILY_FACT_END -->
 
 </div>
