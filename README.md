@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"It always seems impossible until it is done."* — Nelson Mandela
+> *"Well begun is half done."* — Aristotle
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> The original name for Java was Oak.
+> The first webcam monitored a coffee pot at the University of Cambridge.
 <!-- DAILY_FACT_END -->
 
 </div>
