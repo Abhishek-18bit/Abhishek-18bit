@@ -66,7 +66,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0D1117&height=2"/>
 
----
+--- 
 
 ### 💬 **Favorite Quote**
 
