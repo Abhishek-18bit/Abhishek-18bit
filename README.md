@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Simplicity is the soul of efficiency."* — Austin Freeman
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> JavaScript was created in just 10 days in 1995.
+> The first 1 GB hard drive weighed more than 500 pounds.
 <!-- DAILY_FACT_END -->
 
 </div>
