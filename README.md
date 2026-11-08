@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
+> *"Learning never exhausts the mind."* — Leonardo da Vinci
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> The word 'algorithm' comes from the name of the Persian mathematician Al-Khwarizmi.
+> Python is named after Monty Python, not the snake.
 <!-- DAILY_FACT_END -->
 
 </div>
