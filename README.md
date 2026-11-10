@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"The only way to do great work is to love what you do."* — Steve Jobs
+> *"It always seems impossible until it is done."* — Nelson Mandela
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> Email existed before the World Wide Web.
+> The original name for Java was Oak.
 <!-- DAILY_FACT_END -->
 
 </div>
