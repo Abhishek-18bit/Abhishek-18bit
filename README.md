@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"Well begun is half done."* — Aristotle
+> *"Make it work, make it right, make it fast."* — Kent Beck
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> The first webcam monitored a coffee pot at the University of Cambridge.
+> Over half of all websites use JavaScript in the browser.
 <!-- DAILY_FACT_END -->
 
 </div>
