@@ -30,12 +30,12 @@
 
 ### 💡 **Quote of the Day**
 <!-- DAILY_QUOTE_START -->
-> *"The best way to predict the future is to invent it."* — Alan Kay
+> *"First, solve the problem. Then, write the code."* — John Johnson
 <!-- DAILY_QUOTE_END -->
 
 ### 🧠 **Fun Fact**
 <!-- DAILY_FACT_START -->
-> The first website is still online and was published by Tim Berners-Lee in 1991.
+> JavaScript was created in just 10 days in 1995.
 <!-- DAILY_FACT_END -->
 
 </div>
